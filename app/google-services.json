@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458352816759",
+    "project_id": "login-cd323",
+    "storage_bucket": "login-cd323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458352816759:android:11d2aacdc21be1d4e88c72",
+        "android_client_info": {
+          "package_name": "gaur.himanshu.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458352816759-rqf3n19s4s62602vnq44u2iovm3fn8fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gaur.himanshu.login",
+            "certificate_hash": "291bf2928bfada4c2ab0a9416bc59bbd06c7c3bd"
+          }
+        },
+        {
+          "client_id": "458352816759-ls7libfra52161m07hrf4r1b5bn7pt54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCdMTznMIMJO-ABtP1Pt6-9aVAx0MI8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458352816759-ls7libfra52161m07hrf4r1b5bn7pt54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
